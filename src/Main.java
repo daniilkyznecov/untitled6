@@ -7,7 +7,7 @@ public class Main {
         if (os == 0) {
             System.out.println("Установите приложение для IOS по ссылке");
         } else if (os == 1) {
-            System.out.println("Учтановите ыерсию приложения для Android по ссылке");
+            System.out.println("Учтановите версию приложения для Android по ссылке");
         } else {
             System.out.println("Неверное значение!");
         }
